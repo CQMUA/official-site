@@ -5,7 +5,7 @@ config:
   -
     type: hero
     full: true
-    background: ./bg.jpg
+    background: /.vuepress/public/front-background.png
     hero:
       name: CQMUA
       tagline: 重庆 Minecraft 高校联盟
