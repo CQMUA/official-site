@@ -18,7 +18,8 @@ export const navbar = defineNavbarConfig([
             {text: 'MUA', link: 'http://www.mualliance.cn/'},
             {text: 'Passport', link: 'https://p.mpsmc.cn/'},
             {text: '服务器中心', link: 'https://server.cqmua.cn/'},
-            {text: '语雀', link: 'https://www.yuque.com/pguide/cqmua'}
+            {text: '语雀', link: 'https://www.yuque.com/pguide/cqmua'},
+            {text: '服务状态', link: 'https://status.cqmu.online/status/cqmua'}
         ]
     }
 ])
