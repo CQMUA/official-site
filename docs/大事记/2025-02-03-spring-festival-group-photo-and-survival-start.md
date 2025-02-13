@@ -16,6 +16,5 @@ permalink: /article/spring-festival-group-photo-and-survival-start/
 
 大约于13:25，合影成功完成。稍后，中午13:30之后，服务器重启，各学校的分别开荒正式开始。
 
-![CQMUA春节合影图片](/img/2025-02-03-spring-festival.jpg)
-
+![2025-02-03-spring-festival.jpg](../.vuepress/public/2025-02-03-spring-festival.jpg)
 合影图片，由TA_BOX拍摄。
