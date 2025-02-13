@@ -30,10 +30,10 @@ export default defineThemeConfig({
     // createTime: true, // 是否显示文章创建时间
 
     /* 站点页脚 */
-    // footer: {
-    //   message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-    //   copyright: '',
-    // },
+       footer: {
+       message: '2025 ©CQMUA All Rights Reserved | <async-component-wrapper><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备2025114514号</a></async-component-wrapper>',
+       copyright: '',
+     },
 
     /**
      * @see https://theme-plume.vuejs.press/config/basic/#profile
