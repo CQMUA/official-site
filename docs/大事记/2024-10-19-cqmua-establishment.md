@@ -9,11 +9,14 @@ permalink: /article/cqmua-establishment/
 
 见面会上，大家讨论了诸多话题，包括要开设联合生存服、开发CQMUA Passport、建立联合群组服务器、建设像素大学城等等。
 
-本次见面会的参与者有：（由于重科与重大的同学不配合，已无法得知当时与会的准确名单。以下是确定参与过的玩家，但不完整。）
+本次见面会的参与者有：
 
 - 重庆医科大学：rand777、sectly
-- 重庆大学
+- 重庆大学: KazamiSora
 - 西南大学：Macrodd2022
-- 重庆科技大学：Echoker
+- 重庆科技大学：Echoker、NinerSimple、ALKALiKong
+- 重庆邮电大学：佚名
+
+![CQMUA-M1.jpg](../.vuepress/public/CQMUA-M1.jpg)
 
 CQMUA成立见面会的成功举办，标志着重庆市区域性高校Minecraft联盟的正式确立，为后续联合活动的展开打下了坚实的基础。
