@@ -6,7 +6,7 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: '/CQMUA_logo.png',
+  logo: '/logo.png',
 
   appearance: true,  // 配置 深色模式
 
@@ -37,7 +37,7 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: '/CQMUA_logo.png',
+    avatar: '/logo.png',
     name: 'CQMUA',
     description: '重庆 Minecraft 高校联盟',
     // circle: true,
