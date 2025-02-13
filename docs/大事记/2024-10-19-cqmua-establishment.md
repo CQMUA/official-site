@@ -19,4 +19,6 @@ permalink: /article/cqmua-establishment/
 
 ![CQMUA-M1.jpg](../.vuepress/public/CQMUA-M1.jpg)
 
+**说明：这里KazamiSora因为中午睡过头没来拍成，所以只有6位参与拍摄)**
+
 CQMUA成立见面会的成功举办，标志着重庆市区域性高校Minecraft联盟的正式确立，为后续联合活动的展开打下了坚实的基础。
