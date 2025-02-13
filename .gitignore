@@ -1,0 +1,13 @@
+**/node_modules
+
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+docs/.vuepress/dist
+
+docs/.obsidian
+
+.DS_Store
+*.log
+
+docs/草稿
+docs/img/草稿
