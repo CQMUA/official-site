@@ -13,7 +13,16 @@ export const navbar = defineNavbarConfig([
         ]
     },
     {
-        text: '联盟',
+        icon: '/minecraft.svg',
+        text: '联合服务器',
+        items: [
+            {icon:'/minecraft_heart.png', text: '联合生存服',link: '/notes/union-server/1.union-survival.md'},
+            {icon:'/minecraft_stone.png', text: '联合复原服', link: '/notes/union-server/2.union-restore.md'}
+        ]
+    },
+    {
+        icon: '/logo.svg',
+        text: '联盟友链',
         items: [
             {icon: '/mua.png', text: 'MUA', link: 'http://www.mualliance.cn/'},
             {icon: 'devicon:passport', text: 'Passport', link: 'https://p.mpsmc.cn/'},
@@ -21,5 +30,6 @@ export const navbar = defineNavbarConfig([
             {icon: '/yuque.svg', text: '语雀', link: 'https://www.yuque.com/pguide/cqmua'},
             {icon: 'icon-park:server', text: '服务状态', link: 'https://status.cqmu.online/status/cqmua'}
         ]
-    }
+    },
+
 ])

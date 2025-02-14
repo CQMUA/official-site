@@ -1,4 +1,4 @@
-# cqmua
+# CQMUA Site
 
 The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
 
@@ -13,10 +13,17 @@ npm i
 ```sh
 # start dev server
 npm run docs:dev
+```
+
+```shell
 # build for production
 npm run docs:build
+```
+```shell
 # preview production build in local
 npm run docs:preview
+```
+```shell
 # update vuepress and theme
 npm run vp-update
 ```

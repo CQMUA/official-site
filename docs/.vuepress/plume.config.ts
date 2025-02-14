@@ -23,7 +23,7 @@ export default defineThemeConfig({
      * 文章版权信息
      * @see https://theme-plume.vuejs.press/guide/features/copyright/
      */
-    // copyright: true,
+    copyright: true,
 
     // prevPage: true,   // 是否启用上一页链接
     // nextPage: true,   // 是否启用下一页链接
@@ -32,7 +32,7 @@ export default defineThemeConfig({
     /* 站点页脚 */
        footer: {
        message: '2025 ©CQMUA All Rights Reserved | <async-component-wrapper><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备2025114514号</a></async-component-wrapper>',
-       copyright: '',
+       copyright: 'NOT AN OFFICIAL MINECRAFT ORGANIZATION! NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT!',
      },
 
     /**
