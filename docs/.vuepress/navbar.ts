@@ -9,7 +9,6 @@ export const navbar = defineNavbarConfig([
         items: [
             {text: '加入我们', link: '/guide/join-us/'},
             {text: 'Passport配置', link: '/guide/passport-setup/'},
-            {text: '贡献指南', link:  '/guide/contribute-guidance/'}
         ]
     },
     {
