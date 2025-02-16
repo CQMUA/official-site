@@ -23,7 +23,7 @@ export default defineThemeConfig({
      * 文章版权信息
      * @see https://theme-plume.vuejs.press/guide/features/copyright/
      */
-    copyright: true,
+    // copyright: true,
 
     // prevPage: true,   // 是否启用上一页链接
     // nextPage: true,   // 是否启用下一页链接
@@ -54,12 +54,12 @@ export default defineThemeConfig({
      * 公告板
      * @see https://theme-plume.vuejs.press/guide/features/bulletin/
      */
-    bulletin: {
-      layout: 'top-right',
-      contentType: 'markdown',
-      title: '注意',
-      content: 'CQMUA测试预览版',
-    },
+    // bulletin: {
+    //   layout: 'top-right',
+    //   contentType: 'markdown',
+    //   title: '注意',
+    //   content: 'CQMUA测试预览版',
+    // },
 
     /* 过渡动画 @see https://theme-plume.vuejs.press/config/basic/#transition */
     transition: {

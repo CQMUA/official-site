@@ -6,7 +6,7 @@ import {plumeTheme} from 'vuepress-theme-plume'
 export default defineUserConfig({
     base: '/',
     lang: 'zh-CN',
-    title: 'CQMUA',
+    title: 'CQMUA 渝高联',
     description: '重庆 Minecraft 高校联盟',
 
     head: [
@@ -31,7 +31,7 @@ export default defineUserConfig({
         /* 页内信息 */
         // editLink: true,
         // lastUpdated: true,
-        // contributors: true,
+        contributors: false,
         // changelog: false,
 
         /**
