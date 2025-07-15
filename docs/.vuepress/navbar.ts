@@ -44,9 +44,9 @@ export const navbar = defineNavbarConfig([
         items: [
             {icon: '/yuque.svg', text: '语雀', link: 'https://www.yuque.com/pguide/cqmua'},
             {icon: '/mua.png', text: 'MUA', link: 'http://www.mualliance.cn/'},
-            {icon: '/cymc.png',text: 'CYMC',link: 'https://www.cqmu.online/'},
+            {icon: '/cymc.png',text: 'CYMC',link: 'https://www.cymc.club/'},
             {icon:'/mpsmc.png', text: 'MPSMC', link: 'https://b.mpsmc.cn/'},
         ]
     },
-    {icon: 'vscode-icons:file-type-mediawiki', text: 'WIKI', link: 'https://wiki.macrodd.online/'},
+    {icon: 'vscode-icons:file-type-mediawiki', text: 'WIKI', link: 'https://wiki.macrodd.cn/'},
 ])
