@@ -12,9 +12,9 @@ config:
       actions:
         - theme: brand
           text: 通行证系统
-          link: https://p.mpsmc.cn/
+          link: https://p.cqmua.cn
         - theme: brand
-          text: 联合大厅皮肤站(备案中)
+          text: CQMUA联合认证
           link: http://skin.cqmua.cn/
         - theme: alt
           text: 加入我们

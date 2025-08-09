@@ -12,7 +12,6 @@ export default defineThemeConfig({
 
     social: [
         {icon: 'github', link: 'https://github.com/CQMUA'},
-        {icon: 'gitlab', link: 'https://zds.cqmu.edu.cn/'},
         {icon: "qq", link: 'https://qm.qq.com/cgi-bin/qm/qr?k=Cgj2RSh1os5bxN28-Js3CJfyiWE3FOli&jump_from=webapi&authKey=QCOTDUdGTz61LMkNalsy6R+sMcH2zjpB846xdEtXj3PfibYbgkxXTVtC38JnNJU0'},
     ],
     navbarSocialInclude: ['qq', 'github', 'gitlab',], // 允许显示在导航栏的 social 社交链接
@@ -31,7 +30,7 @@ export default defineThemeConfig({
 
     /* 站点页脚 */
        footer: {
-       message: '2025 ©CQMUA All Rights Reserved | <async-component-wrapper><a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备2025114514号</a></async-component-wrapper>',
+       message: '2024 - 2025 ©CQMUA All Rights Reserved | <async-component-wrapper><a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备2023019384号</a></async-component-wrapper>',
        copyright: 'NOT AN OFFICIAL MINECRAFT ORGANIZATION! NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT!',
      },
 
